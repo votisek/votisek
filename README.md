@@ -1,4 +1,4 @@
-# 🤖 Hi there, I'm votisek 👋
+# 👋 Hi there, I'm votisek 
 
 I am a robotics developer and software enthusiast. Currently, I'm a core member of the **[Quantum-Limes](https://github.com/Quantum-Limes)** team, competing in the **FIRST Lego League (FLL)**. I focus on building smart, efficient code to power our robot and research initiatives.
 
