@@ -23,5 +23,5 @@ I am a robotics developer and software enthusiast from Czech Republic 🇨🇿. 
 ---
 
 ### 📬 Connect with me
-- **Email:** [votisek@proton.me](mailto:votisek@proton.me]
+- **Email:** [votisek@proton.me](mailto:votisek@proton.me)
 
