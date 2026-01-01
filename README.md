@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm votisek 
 
-I am a robotics developer and software enthusiast. Currently, I'm a core member of the **[Quantum-Limes](https://github.com/Quantum-Limes)** team, competing in the **FIRST Lego League (FLL)**. I focus on building smart, efficient code to power our robot and research initiatives.
+I am a robotics developer and software enthusiast from Czech Republic 🇨🇿. Currently, I'm a core member of the **[Quantum-Limes](https://github.com/Quantum-Limes)** team, competing in the **FIRST Lego League (FLL)**. I focus on building smart, efficient code to power our robot and research initiatives.
 
 ### 🚀 Current Focus
 - **FLL Robotics:** Writing autonomous logic and movement programs for our robot.
@@ -23,5 +23,5 @@ I am a robotics developer and software enthusiast. Currently, I'm a core member 
 ---
 
 ### 📬 Connect with me
-- **Team:** [Quantum-Limes 🍋](https://github.com/Quantum-Limes)
-- **Competition:** FIRST Lego League
+- **Email:** [votisek@proton.me](mailto:votisek@proton.me]
+
