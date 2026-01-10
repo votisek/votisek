@@ -14,13 +14,6 @@ I am a robotics developer and software enthusiast from Czech Republic 🇨🇿. 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=votisek&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votisek&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
 
 ### 📬 Connect with me
 - **Email:** [votisek@proton.me](mailto:votisek@proton.me)
